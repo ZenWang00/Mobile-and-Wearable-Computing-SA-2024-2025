@@ -96,7 +96,6 @@ public class StepsFragment extends Fragment {
             }
         });
 
-
         return root;
     }
 
